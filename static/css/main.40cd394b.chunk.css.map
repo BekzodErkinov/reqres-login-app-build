@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Animation/Loader.module.scss"],"names":[],"mappings":"AACE,0BACE,YAAA","file":"main.40cd394b.chunk.css","sourcesContent":[".loader {\n  svg {\n    fill: rgb(21, 122, 255);\n  }\n}"]}

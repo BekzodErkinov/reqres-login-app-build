@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Error/Error.js"],"names":["Error"],"mappings":"iLAQeA,EARD,WACZ,OACE,8BACE","file":"static/js/7.f75f2110.chunk.js","sourcesContent":["const Error = () => {\n  return (\n    <div>\n      <h1>404 page not found 🤭🤣</h1>\n    </div>\n  )\n}\n\nexport default Error\n"],"sourceRoot":""}

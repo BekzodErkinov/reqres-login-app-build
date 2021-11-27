@@ -1,0 +1,2 @@
+(this["webpackJsonpreqres-initial"]=this["webpackJsonpreqres-initial"]||[]).push([[7],{69:function(n,e,i){"use strict";i.r(e),i.d(e,"default",(function(){return r}));var t=i(1),r=function(){return Object(t.jsx)("div",{children:Object(t.jsx)("h1",{children:"404 page not found \ud83e\udd2d\ud83e\udd23"})})}}}]);
+//# sourceMappingURL=7.f75f2110.chunk.js.map
